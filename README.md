@@ -18,10 +18,10 @@
 ---
 
 ### 🌟 Tentang Aku
-- 🔭 Saat ini sedang fokus mengembangkan **Advanced Voice Chat Bots** (Discord & Telegram).
-- 🌱 Terus bereksperimen dengan **Runtime berkecepatan tinggi** (Bun) & ekosistem **Python / TypeScript**.
-- 💡 Tertarik pada **Otomasi**, **Sistem Anti-Blokir**, dan **Audio/Video Processing**.
-- ⚡ **Fakta Menarik:** Aku bisa membuat bot pemutar musik tanpa tersendat sedikitpun walau di-*block* oleh YouTube!
+- 🔭 Saat ini sedang fokus mengembangkan **Advanced Bots** (Discord, Telegram, dan WhatsApp) serta **Modern Web Apps**.
+- 🌱 Terus bereksperimen dengan **Runtime berkecepatan tinggi** (Bun), **Monorepo** (Turborepo), & ekosistem **Python / TypeScript**.
+- 💡 Tertarik pada **Web Scraping**, **Otomasi**, **Sistem Anti-Blokir**, dan **Audio/Video/Image Processing**.
+- ⚡ **Fakta Menarik:** Aku bisa membuat ekosistem bot cerdas yang mengelola ribuan chat, memproses gambar/video instan, dan *streaming* musik 24/7!
 
 ---
 
@@ -44,9 +44,11 @@
 <br><br>
 
 **[ Frameworks & Libraries Favorit ]**<br>
+<img src="https://img.shields.io/badge/Baileys_WA-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 <img src="https://img.shields.io/badge/Pyrogram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
-<img src="https://img.shields.io/badge/PyTgCalls-26A69A?style=for-the-badge&logo=telegram&logoColor=white" />
+<img src="https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
 <img src="https://img.shields.io/badge/yt--dlp-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 <img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" />
 
