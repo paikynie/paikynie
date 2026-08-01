@@ -47,9 +47,3 @@ Currently architecting advanced automation networks. My primary domain involves 
 <i>* Classified repositories regarding Private Web Apps and WhatsApp Architecture remain strictly hidden from public access.</i>
 
 </div>
-
-<br><br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paikynie&show_icons=false&theme=radical&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e" alt="Stats" />
-</div>
