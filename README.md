@@ -37,17 +37,21 @@
       "Python": "90%",
       "JavaScript": "85%"
     },
-    "technologies": [
+    "runtimes": [
       "Bun",
+      "Node.js"
+    ],
+    "frameworks": [
       "Next.js",
       "React",
       "TailwindCSS",
-      "Node.js",
-      "Turborepo",
-      "Baileys (WA)",
-      "Discord.js",
-      "Pyrogram",
       "Elysia"
+    ],
+    "libraries_and_tools": [
+      "Turborepo",
+      "Baileys",
+      "Discord.js",
+      "Pyrogram"
     ]
   }
 }
