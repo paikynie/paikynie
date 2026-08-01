@@ -35,9 +35,7 @@
     "languages": {
       "TypeScript": "95%",
       "Python": "90%",
-      "JavaScript": "85%",
-      "HTML": "80%",
-      "CSS": "75%"
+      "JavaScript": "85%"
     },
     "technologies": [
       "Bun",
