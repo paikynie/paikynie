@@ -21,13 +21,34 @@
   <hr style="width: 50%; border: 1px solid #333;" />
 </div>
 
-Currently architecting advanced automation networks. My primary domain involves bridging communication protocols across platforms (Discord, Telegram, WhatsApp) and engineering high-performance modern web systems.
-
-*   **Core Logic:** TypeScript, JavaScript, Python
-*   **Runtimes & Engine:** Bun, Node.js
-*   **Infrastructure:** Turborepo, SQLite, PM2
-*   **Data & Media:** Intelligent Web Scraping, Audio/Video Rendering, FFmpeg
-*   **Telecom APIs:** Baileys, Discord.js, Pyrogram, PyTgCalls
+```json
+{
+  "name": "Tuan Pai",
+  "role": "Architect of Automation",
+  "hobbies": [
+    "Building Unblockable Bots",
+    "Writing Clean Code",
+    "Drinking Coffee",
+    "Making Systems Talk to Each Other"
+  ],
+  "skills": {
+    "languages": {
+      "TypeScript": "95%",
+      "Python": "90%",
+      "JavaScript": "85%"
+    },
+    "technologies": [
+      "Bun",
+      "Node.js",
+      "Turborepo",
+      "Baileys (WA)",
+      "Discord.js",
+      "Pyrogram",
+      "FFmpeg"
+    ]
+  }
+}
+```
 
 <br>
 
