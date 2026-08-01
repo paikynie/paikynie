@@ -1,75 +1,55 @@
 <div align="center">
-  <img src="https://files.catbox.moe/keeo89.jpg" width="150" height="150" style="border-radius: 50%; border: 4px solid #7289da; margin-bottom: 20px;" alt="Profile Picture" />
+  <img src="https://files.catbox.moe/keeo89.jpg" width="160" height="160" style="border-radius: 50%; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.5);" alt="Profile" />
   
-  <h1 align="center">Hai, Aku Tuan Pai! 👋</h1>
-  <h3 align="center">🤖 Bot Developer | 🚀 Backend Enthusiast | 🎵 Music Bot Engineer</h3>
-
-  <p align="center">
+  <h1>T U A N &nbsp; P A I</h1>
+  <p><b>A R C H I T E C T &nbsp; O F &nbsp; A U T O M A T I O N</b></p>
+  
+  <p>
     <a href="https://github.com/paikynie">
-      <img src="https://komarev.com/ghpvc/?username=paikynie&label=Profile%20Views&color=0e75b6&style=flat-square" alt="paikynie" />
+      <img src="https://komarev.com/ghpvc/?username=paikynie&label=SYSTEM_ACCESS&color=111111&style=for-the-badge" alt="views" />
     </a>
   </p>
 
-  <p align="center">
-    <i>"Menghidupkan ide lewat barisan kode, membangun ekosistem otomasi yang tiada henti."</i>
-  </p>
+  <br>
+  <i>"I do not just write code. I construct ecosystems."</i>
 </div>
 
----
+<br><br>
 
-### 🌟 Tentang Aku
-- 🔭 Saat ini sedang fokus mengembangkan **Advanced Bots** (Discord, Telegram, dan WhatsApp) serta **Modern Web Apps**.
-- 🌱 Terus bereksperimen dengan **Runtime berkecepatan tinggi** (Bun), **Monorepo** (Turborepo), & ekosistem **Python / TypeScript**.
-- 💡 Tertarik pada **Web Scraping**, **Otomasi**, **Sistem Anti-Blokir**, dan **Audio/Video/Image Processing**.
-- ⚡ **Fakta Menarik:** Aku bisa membuat ekosistem bot cerdas yang mengelola ribuan chat, memproses gambar/video instan, dan *streaming* musik 24/7!
+<div align="center">
+  <h3>E N G I N E E R I N G &nbsp; F O C U S</h3>
+  <hr style="width: 50%; border: 1px solid #333;" />
+</div>
 
----
+Currently architecting advanced automation networks. My primary domain involves bridging communication protocols across platforms (Discord, Telegram, WhatsApp) and engineering high-performance modern web systems.
 
-### 💻 Bahasa & Teknologi yang Aku Kuasai
+*   **Core Logic:** TypeScript, JavaScript, Python
+*   **Runtimes & Engine:** Bun, Node.js
+*   **Infrastructure:** Turborepo, SQLite, PM2
+*   **Data & Media:** Intelligent Web Scraping, Audio/Video Rendering, FFmpeg
+*   **Telecom APIs:** Baileys, Discord.js, Pyrogram, PyTgCalls
+
+<br>
+
+<div align="center">
+  <h3>P U B L I C &nbsp; S Y S T E M S</h3>
+  <hr style="width: 50%; border: 1px solid #333;" />
+</div>
 
 <div align="center">
 
-**[ Bahasa Pemrograman ]**<br>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-
-<br><br>
-
-**[ Runtime & Lingkungan Server ]**<br>
-<img src="https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" />
-
-<br><br>
-
-**[ Frameworks & Libraries Favorit ]**<br>
-<img src="https://img.shields.io/badge/Baileys_WA-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-<img src="https://img.shields.io/badge/Pyrogram-0088cc?style=for-the-badge&logo=telegram&logoColor=white" />
-<img src="https://img.shields.io/badge/Turborepo-EF4444?style=for-the-badge&logo=turborepo&logoColor=white" />
-<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
-<img src="https://img.shields.io/badge/yt--dlp-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
-<img src="https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white" />
-
-</div>
-
----
-
-### 🔥 Top Proyek
-
-| Nama Proyek | Deskripsi Singkat | Teknologi Utama |
+| Project Designation | Core Implementation | Technical Scope |
 | :---: | :--- | :---: |
-| **[discord-vc-bot](https://github.com/paikynie/discord-vc-bot)** | Pemutar musik di Discord Voice Channel yang mendukung Custom Playlists dan auto-queue. Cepat, stabil, anti lag! | `TypeScript` `Bun` `discord.js` `yt-dlp` |
-| **[tele-vc-bot](https://github.com/paikynie/tele-vc-bot)** | Pemutar musik Telegram yang berjalan lancar di Voice Chat grup. | `Python` `Pyrogram` `PyTgCalls` `FFmpeg` |
+| **[discord-vc-bot](https://github.com/paikynie/discord-vc-bot)** | High-fidelity audio streaming node for Discord platforms | `Bun` `TypeScript` `yt-dlp` |
+| **[tele-vc-bot](https://github.com/paikynie/tele-vc-bot)** | Continuous background radio relay for Telegram channels | `Python` `Pyrogram` `PyTgCalls` |
 
----
+<br>
+<i>* Classified repositories regarding Private Web Apps and WhatsApp Architecture remain strictly hidden from public access.</i>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=paikynie&show_icons=true&theme=tokyonight&hide_border=true" alt="Statistik GitHub Tuan Pai" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=paikynie&theme=tokyonight&hide_border=true" alt="Streak GitHub Tuan Pai" />
-</p>
+</div>
+
+<br><br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=7289da&height=100&section=footer" />
+  <img src="https://github-readme-stats.vercel.app/api?username=paikynie&show_icons=false&theme=radical&hide_border=true&bg_color=0d1117&title_color=c9d1d9&text_color=8b949e" alt="Stats" />
 </div>
