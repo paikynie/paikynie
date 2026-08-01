@@ -44,7 +44,7 @@
       "Baileys (WA)",
       "Discord.js",
       "Pyrogram",
-      "FFmpeg"
+      "Elysia"
     ]
   }
 }
